@@ -3,3 +3,5 @@ gunicorn
 textblob
 google-generativeaigunicorn
 gunicorn
+google-generativeai
+gunicorn
