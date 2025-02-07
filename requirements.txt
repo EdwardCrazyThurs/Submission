@@ -1,5 +1,4 @@
 flask
 textblob
-google-generativeaigunicorn
 google-generativeai
 gunicorn
